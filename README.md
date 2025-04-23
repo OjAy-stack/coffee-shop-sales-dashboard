@@ -23,9 +23,9 @@ Built entirely in Microsoft Excel (with VBA), this dashboard explores:
 | Metric | Value |
 |--------|-------|
 | Total Orders | 149,116 |
-| Qty Sold | 214,470 |
-| Avg Price | $3.38 |
-| Revenue | $698,812 |
+| Quantity Sold | 214,470 |
+| Average Price | $3.38 |
+| Total Revenue | $698,812 |
 
 ---
 
