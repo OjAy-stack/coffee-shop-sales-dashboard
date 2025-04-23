@@ -62,10 +62,10 @@ This project showcases my:
 
 | File | Description |
 |------|-------------|
-| `Coffee_Shop_Sales_Dashboard.xlsm` | Excel dashboard (VBA + slicers) |
+| `Coffee_Shop_Sales_Dashboard.xlsx` | Excel dashboard (VBA + slicers) |
 | `Coffee Shop Sales Dashboard.png` | Screenshot of the dashboard |
-| *(Optional)* `coffee_sales_data.csv` | Raw data (if included) |
-| *(Optional)* `highlight_macro.vba` | Extracted macro script |
+| `coffee_sales_data.csv` | Dataset |
+| `highlight_macro.vba` | Extracted macro script |
 | `README.md` | Project summary (you’re reading it!) |
 
 ---
