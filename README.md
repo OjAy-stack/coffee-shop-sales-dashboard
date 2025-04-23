@@ -63,7 +63,7 @@ This project showcases my:
 | File | Description |
 |------|-------------|
 | `Coffee_Shop_Sales_Dashboard.xlsx` | Excel dashboard (VBA + slicers) |
-| `Coffee Shop Sales Dashboard.png` | Screenshot of the dashboard |
+| `Coffee Shop Sales Dashboard.png` | Dashboard Preview |
 | `highlight_macro.vba` | Extracted macro script |
 | `README.md` | Project summary (you’re reading it!) |
 
