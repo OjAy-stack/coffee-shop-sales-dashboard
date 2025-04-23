@@ -77,4 +77,4 @@ This project showcases my:
 
 ## 💬 Feedback?
 
-Open an issue or connect with me! I’m always learning and love collaborating with other analysts or data-lovers.
+Open an issue or connect with me! I’m always learning and love collaborating with other analysts and data-lovers.
